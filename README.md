@@ -1,2 +1,15 @@
-# -Selenium-Web-Automation-Projects
-📝 Selenium automation projects using Python, covering form submission, checkbox handling, dropdown selection, browser navigation, search automation, and cross-browser testing on Chrome, Firefox, and Edge with real-time examples like LinkedIn and YouTube.
+📚 How to Run
+
+    📥 Clone the repository:
+
+git clone https://github.com/yourusername/selenium-web-automation.git
+
+🔧 Install Selenium:
+
+pip install selenium
+
+🖥️ Update WebDriver paths based on your local system.
+
+▶️ Run the scripts:
+
+    python filename.py
