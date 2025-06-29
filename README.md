@@ -2,7 +2,7 @@
 
     📥 Clone the repository:
 
-git clone https://github.com/yourusername/selenium-web-automation.git
+git clone https://github.com/Niranjan027/selenium-web-automation.git
 
 🔧 Install Selenium:
 
